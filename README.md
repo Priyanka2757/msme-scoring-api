@@ -5,7 +5,7 @@ AI-powered MSME credit scoring system using alternate data sources
 for New-to-Credit and New-to-Bank businesses.
 
 ## Live Demo
-[Click here to open the dashboard](YOUR BOLT PUBLISHED URL)
+https://msme-financial-healt-lnue.bolt.host
 
 ## What's in this repo
 
@@ -31,7 +31,7 @@ for New-to-Credit and New-to-Bank businesses.
 
 ## API
 
-POST https://msme-scoring-api.onrender.com/score
+POST https://msme-scoring-api.onrender.com/
 
 Input: JSON with gst_filing_rate, cash_buffer_ratio, revenue_growth,
 revenue_volatility, avg_net_cash_flow, negative_cashflow_months,
